@@ -1,0 +1,15 @@
+C:\Users\233539\Documents\233539 visual lab mid\Lab mid\bin\Debug\net6.0\Lab mid.exe
+C:\Users\233539\Documents\233539 visual lab mid\Lab mid\bin\Debug\net6.0\Lab mid.deps.json
+C:\Users\233539\Documents\233539 visual lab mid\Lab mid\bin\Debug\net6.0\Lab mid.runtimeconfig.json
+C:\Users\233539\Documents\233539 visual lab mid\Lab mid\bin\Debug\net6.0\Lab mid.dll
+C:\Users\233539\Documents\233539 visual lab mid\Lab mid\bin\Debug\net6.0\Lab mid.pdb
+C:\Users\233539\Documents\233539 visual lab mid\Lab mid\obj\Debug\net6.0\Lab mid.csproj.AssemblyReference.cache
+C:\Users\233539\Documents\233539 visual lab mid\Lab mid\obj\Debug\net6.0\Lab mid.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\233539\Documents\233539 visual lab mid\Lab mid\obj\Debug\net6.0\Lab mid.AssemblyInfoInputs.cache
+C:\Users\233539\Documents\233539 visual lab mid\Lab mid\obj\Debug\net6.0\Lab mid.AssemblyInfo.cs
+C:\Users\233539\Documents\233539 visual lab mid\Lab mid\obj\Debug\net6.0\Lab mid.csproj.CoreCompileInputs.cache
+C:\Users\233539\Documents\233539 visual lab mid\Lab mid\obj\Debug\net6.0\Lab mid.dll
+C:\Users\233539\Documents\233539 visual lab mid\Lab mid\obj\Debug\net6.0\refint\Lab mid.dll
+C:\Users\233539\Documents\233539 visual lab mid\Lab mid\obj\Debug\net6.0\Lab mid.pdb
+C:\Users\233539\Documents\233539 visual lab mid\Lab mid\obj\Debug\net6.0\Lab mid.genruntimeconfig.cache
+C:\Users\233539\Documents\233539 visual lab mid\Lab mid\obj\Debug\net6.0\ref\Lab mid.dll
